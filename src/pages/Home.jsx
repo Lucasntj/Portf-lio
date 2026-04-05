@@ -5,8 +5,6 @@ import ProjectCard from "../components/ProjectCard";
 
 export default function Home() {
   const featuredCase = projectsData[0];
-  const shortHeadline =
-    "Desenvolvedor Fullstack Júnior | React | Node.js | MongoDB | Projetos reais";
   const [activeMediaIndex, setActiveMediaIndex] = useState(null);
   const touchStartXRef = useRef(null);
   const touchEndXRef = useRef(null);
@@ -134,11 +132,6 @@ export default function Home() {
             <span>MongoDB</span>
             <span>Arquitetura de APIs</span>
           </div>
-
-          <div className="bio-snippet" aria-label="headline para redes">
-            <p className="bio-snippet-label">Headline para LinkedIn/GitHub</p>
-            <p className="bio-snippet-text">{shortHeadline}</p>
-          </div>
         </div>
 
         <aside className="landing-profile-card">
@@ -177,8 +170,6 @@ export default function Home() {
           </div>
         </aside>
       </section>
-
-      <p className="hero-note">{shortHeadline}</p>
 
       <article className="future-case" id="case">
         <header className="future-case-head">

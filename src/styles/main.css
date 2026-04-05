@@ -271,37 +271,6 @@ a {
   color: #d2efff;
 }
 
-.bio-snippet {
-  margin-top: 0.75rem;
-  border: 1px solid rgba(103, 214, 255, 0.28);
-  border-radius: 10px;
-  background: rgba(7, 20, 40, 0.56);
-  padding: 0.52rem 0.62rem;
-}
-
-.bio-snippet-label {
-  margin: 0;
-  font-size: 0.72rem;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  color: #9fc0d8;
-}
-
-.bio-snippet-text {
-  margin: 0.22rem 0 0;
-  color: #def4ff;
-  font-size: 0.82rem;
-  line-height: 1.4;
-}
-
-.hero-note {
-  margin: 0;
-  padding: 0.44rem 0.14rem 0;
-  font-size: 0.86rem;
-  color: #9cb7ce;
-  text-align: center;
-}
-
 .future-case {
   padding: 1rem;
 }
