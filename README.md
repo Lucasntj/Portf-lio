@@ -6,9 +6,9 @@ Portfólio profissional em React focado em candidatura para vagas de Desenvolved
 
 Apresentar projetos reais e de estudo aplicado com foco em:
 
-- clareza para recrutadores;
-- boa experiência visual (landing page);
-- acesso rápido a currículo e contato.
+- Clareza para recrutadores;
+- Boa experiência visual (landing page);
+- Acesso rápido a currículo e contato.
 
 ## Stack
 
