@@ -114,7 +114,7 @@ export default function Home() {
 
           <div className="landing-cta-row">
             <a
-              href={`${process.env.PUBLIC_URL}/curriculo.pdf`}
+              href={`${process.env.PUBLIC_URL}/Currículo-Lucas.pdf`}
               download
               className="btn-primary"
             >
