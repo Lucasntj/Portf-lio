@@ -73,16 +73,6 @@ Antes de enviar o link, valide:
 4. Primeira dobra da página com título e posicionamento corretos.
 5. Case principal com imagens abrindo no lightbox.
 
-## Mensagem curta para candidatura (copiar e colar)
-
-Olá, tudo bem?
-
-Sou Lucas Macedo, Desenvolvedor Fullstack Júnior. Compartilho meu portfólio com projetos práticos em React, Node.js e MongoDB:
-
-[COLE AQUI O LINK DO PORTFÓLIO]
-
-Fico à disposição para conversar sobre oportunidades.
-
 ## Licença
 
 MIT.
